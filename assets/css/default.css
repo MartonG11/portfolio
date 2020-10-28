@@ -271,9 +271,7 @@ img {
   width: 100%;
 }
 
-.theme__default,
-.theme__red,
-.theme__green,
+
 .theme-dot {
   display: inline-flex;
 	height: 30px;
