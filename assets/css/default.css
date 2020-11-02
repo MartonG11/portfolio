@@ -387,6 +387,7 @@ img {
 .skills__name:hover {
   background-color: var(--first-color);
   color: var(--first-color-lighten);
+  cursor: default;
 }
 
 .skills__img img {
