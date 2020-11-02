@@ -478,6 +478,15 @@ img {
   margin-bottom: var(--mb-2);
 }
 
+.experience__link {
+  text-decoration: underline;
+  font-style: italic;
+}
+
+.experience__description {
+  margin-top: var(--mb-2);
+}
+
 .experience__content, .experience__icon, .experience__description, .experience__title{
   transition: .5s;
 }
