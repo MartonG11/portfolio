@@ -12,9 +12,9 @@
   --font-bold: 700;
 
   /* COLORS */
-  --first-color: blue;
-  --first-color-dark: #662616;
-  --first-color-darken: #290f09;
+  --first-color: #0778b5;
+  --first-color-dark: #2d3254;
+  --first-color-darken: #202e8c;
   --text-color: #54423d;
   --first-color-light: #eae7e6;
   --first-color-lighten: #fffafa;
@@ -518,7 +518,6 @@ img {
 
 .footer__copy {
   font-size: var(--small-font-size);
-  color: var(--text-color);
 }
 
 
